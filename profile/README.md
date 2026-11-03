@@ -2,7 +2,7 @@
 
 # Maria | Vibe Coding & Business Automation
 
-> Превращаю бизнес-задачи в работающий софт. От продающего лендинга до CRM, которая заменяет пять таблиц Excel.
+> Превращаю бизнес-задачи в работающий софт. От продающего лендинга до CRM, которая наводит порядок в хаосе разрозненных данных (таблиц, файлов и чатов).
 
 [![Telegram](https://img.shields.io/badge/Telegram-@Zolotaya79-2AABEE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Zolotaya79)
 [![Email](https://img.shields.io/badge/Email-maria.zolotaya79@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maria.zolotaya79@gmail.com)
@@ -96,7 +96,7 @@
 
 ## 🇬🇧 English Version
 
-> Turning business challenges into working software. From high-converting landing pages to CRMs that replace five Excel spreadsheets.
+> Turning business challenges into working software. Turning business challenges into working software. From a high-converting landing page to a CRM that brings order to the chaos of scattered data (spreadsheets, files, and chats).
 
 ### 🚀 What is Vibe Coding?
 
