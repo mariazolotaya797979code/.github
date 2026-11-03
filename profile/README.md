@@ -4,8 +4,8 @@
 
 > Превращаю бизнес-задачи в работающий софт. От продающего лендинга до CRM, которая наводит порядок в хаосе разрозненных данных (таблиц, файлов и чатов).
 
-[![Telegram](https://img.shields.io/badge/Telegram-@Zolotaya79-2AABEE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Zolotaya79)
-[![Email](https://img.shields.io/badge/Email-maria.zolotaya79@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maria.zolotaya79@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@Zolotaya79-39FF14?style=for-the-badge&logo=telegram&logoColor=111111)](https://t.me/Zolotaya79)
+[![Email](https://img.shields.io/badge/Email-maria.zolotaya79@gmail.com-FF2BD6?style=for-the-badge&logo=gmail&logoColor=111111)](mailto:maria.zolotaya79@gmail.com)
 
 [English Version](#english-version) · [Русская версия](#russian-version)
 
