@@ -4,6 +4,8 @@
 
 > Превращаю бизнес-задачи в работающий софт. От продающего лендинга до CRM, которая наводит порядок в хаосе разрозненных данных (таблиц, файлов и чатов).
 
+Working worldwide (Remote) / Работаю по всему миру (Дистанционно)
+
 [![Telegram](https://img.shields.io/badge/Telegram-@Zolotaya79-39FF14?style=for-the-badge&logo=telegram&logoColor=39FF14&labelColor=0A1230)](https://t.me/Zolotaya79)
 [![Email](https://img.shields.io/badge/Email-maria.zolotaya79@gmail.com-FF2BD6?style=for-the-badge&logo=gmail&logoColor=FF2BD6&labelColor=0A1230)](mailto:maria.zolotaya79@gmail.com)
 
